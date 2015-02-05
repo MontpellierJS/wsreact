@@ -1,0 +1,27 @@
+{
+  "name": "wStS2014",
+  "version": "1.0.0",
+  "description": "Workshop on train for TalkSpirit Summer",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Fabrice Bentz and Brice Favre",
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "browserify": "^6.3.3",
+    "chai": "^1.10.0",
+    "express": "^4.10.4",
+    "flux": "^2.0.1",
+    "gulp": "^3.8.10",
+    "jquery": "^2.1.1",
+    "lodash": "^2.4.1",
+    "mocha": "^2.0.1",
+    "pouchdb": "^3.1.0",
+    "react": "^0.12.1",
+    "reactify": "^0.17.1",
+    "sinon": "^1.12.1",
+    "vinyl-source-stream": "^1.0.0"
+  }
+}
